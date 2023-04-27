@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/woooooohh1/react_movie.git/static/css/main.5ce7a426.css",
+    "main.js": "/woooooohh1/react_movie.git/static/js/main.07dd33ce.js",
+    "index.html": "/woooooohh1/react_movie.git/index.html",
+    "main.5ce7a426.css.map": "/woooooohh1/react_movie.git/static/css/main.5ce7a426.css.map",
+    "main.07dd33ce.js.map": "/woooooohh1/react_movie.git/static/js/main.07dd33ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ce7a426.css",
+    "static/js/main.07dd33ce.js"
+  ]
+}
